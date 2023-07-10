@@ -1,2 +1,7 @@
-# algocull-intel-mac
-# AlgoCull Mac (M1 Chip) AlgoCull Mac (M1 Chip)  ## Download (Latest) - Apple M1 [Download - AlgoCull](https://github.com/algomage/algomage-mac/releases "Download (Latest) - Apple M1")  Download Link : `https://github.com/algomage/algomage-mac/releases` 
+# AlgoCull Intel-Mac
+AlgoCull Intel-Mac
+
+## Download (Latest) - Apple Intel
+[Download - AlgoCull Intel-Mac](https://github.com/algomage/algomage-mac/releases "Download (Latest) - Apple Intel-Mac")
+
+Download Link : `https://github.com/algomage/algocull-intel-mac/releases` 
